@@ -1,4 +1,4 @@
-# TeasPOT-Regression
+# TeaPOT-Regression
 
 # TeaPOT
 
